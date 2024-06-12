@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-<h1 align="center"> I'm Trevon</h1>
-<h3 align="center">Welcome! I'm a cybersecurity student on a journey to break things</h3>
+
+<h3>Welcome! I'm a cybersecurity student on a journey to break things</h3>
 
 - 🌱 I’m currently learning **At NSBM**
 
