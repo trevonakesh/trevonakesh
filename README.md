@@ -17,9 +17,6 @@
  <br>
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
