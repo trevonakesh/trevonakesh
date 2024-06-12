@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Trevon</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+<h1 align="center"> I'm Trevon</h1>
+<h3 align="center">Welcome! I'm a cybersecurity student on a journey to break things</h3>
 
 - 🌱 I’m currently learning **At NSBM**
 
