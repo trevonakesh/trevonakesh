@@ -1,4 +1,4 @@
-![Github Banner]([https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HPSf6Jlhla-0As2MI4CJGtnaYTqEfruoLw&s))
+<img src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6HPSf6Jlhla-0As2MI4CJGtnaYTqEfruoLw&s">
 
 <h3>Welcome! I'm a cybersecurity student on a journey to break things</h3>
 
