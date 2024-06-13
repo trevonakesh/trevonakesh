@@ -20,6 +20,7 @@
  <br>
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
